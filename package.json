@@ -1,0 +1,16 @@
+{
+  "name": "nodefilelister",
+  "version": "1.0.0",
+  "description": "Utility to list all files in a folder and output them to file",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "jest ./test",
+    "demo": "index.js ./test"
+  },
+  "author": "DarkGuardsman",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
